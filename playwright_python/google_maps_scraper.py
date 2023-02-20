@@ -79,7 +79,7 @@ async def run(playwright: Playwright) -> None:
     """
     browser = await playwright.chromium.launch(
         headless=False,
-        proxy={'server': 'proxy url here'}
+        # proxy={'server': 'proxy url here'}
     )
     context = await browser.new_context()
 
