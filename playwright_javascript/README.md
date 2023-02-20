@@ -11,7 +11,7 @@ Step 4: Install the necessary browsers required for playwright
 >`playwright install`
 
 Step 5: Run the scraper code using
->` node google_maps_scraper.pyjs`
+>` node google_maps_scraper.js`
 
 For more details on Playwright API refer [Playwright for Python](https://playwright.dev/python/docs/api/class-playwright).
 
