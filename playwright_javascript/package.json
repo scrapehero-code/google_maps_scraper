@@ -1,0 +1,17 @@
+{
+    "name": "js_google_map",
+    "version": "1.0.0",
+    "description": "",
+    "main": "google_maps_scraper.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+      "playwright": "^1.30.0",
+      "playwright-core": "^1.30.0"
+    }
+  }
+  
