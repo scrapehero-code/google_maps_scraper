@@ -109,7 +109,7 @@ async def run(playwright: Playwright) -> None:
     results = await extract_details(page)
 
     # saving the data
-    with open('restaurant_data.json', 'w') as f:
+    with open('data.json', 'w') as f:
         json.dump(results, f, indent=2)
 
     # ---------------------
