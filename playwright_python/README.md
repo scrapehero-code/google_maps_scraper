@@ -13,7 +13,7 @@ Step 4: Install the necessary browsers required for playwright
 Step 5: Run the scraper code using
 >` python google_maps_scraper.py`
 
-The results will be stored into a `restaurant_data.json` in your project directory. 
+The results will be stored into a `data.json` in your project directory. 
 Using the search_term as `dentist in New York City, NY, USA` we get the sample data shown below.
 
 ```json
