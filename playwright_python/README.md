@@ -16,8 +16,8 @@ Step 5: Run the scraper code using
 The results will be stored into a `restaurant_data.json` in your project directory. 
 Using the search_term as `dentist in New York City, NY, USA` we get the sample data shown below.
 
-```
-  {
+```json
+{
     "title": "Zendentistry",
     "review_count": "57",
     "rating": 4.9,
@@ -74,9 +74,11 @@ Using the search_term as `dentist in New York City, NY, USA` we get the sample d
     "phone": "(212) 579-8885"
   }
 ```
+
 <br>
+
+### To collect data from Google Maps on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/google-maps-search-results/).
+
 <br>
-<br>
-### To collect data from Google Maps on scale and without coding visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/google-maps-search-results/)
-<br>
+
 ### More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/).
