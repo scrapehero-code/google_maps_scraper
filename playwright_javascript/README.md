@@ -4,7 +4,7 @@
 
 Step 2: cd into the `playwright_javascript` directory.
 
-Step 3: Install the requirements.txt using  
+Step 3: Install the dependencies mentioned in the `package.json` file using the command.
 >`npm install`
 
 Step 4: Install the necessary browsers required for playwright 
